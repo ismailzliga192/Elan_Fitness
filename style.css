@@ -431,6 +431,7 @@ button:focus-visible {
 
 .formules {
   margin-top: 96px;
+  width: 550px;
 }
 
 .formule {
@@ -575,9 +576,9 @@ button:focus-visible {
 .container {
     background-color: #f5f5f5;
     padding: 80px;
-    border-radius: 20px;
+    border-radius: 10px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-}
+  }
 
 label {
     display: block;
@@ -595,7 +596,7 @@ input[type="email"] {
 }
 
 input[type="submit"] {
-    background-color: orange;
+    background-color: #FF6B2C;
     color: white;
     border: none;
     padding: 12px 30px;
@@ -608,6 +609,6 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #e69500;
+    background-color: #FF6B2C;
 }
 
