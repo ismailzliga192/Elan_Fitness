@@ -567,6 +567,7 @@ button:focus-visible {
 .section-titre h3 {
     font-size: 30px;
     margin-bottom: 10px;
+    margin-top: -120px;
 }
 
 .section-titre p {
