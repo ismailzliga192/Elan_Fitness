@@ -1,7 +1,9 @@
-Le 07/10/2026
+le 09/10/2026
 
-* j'ai apprie comment coder en utilisant html/css.
+* Nom du projet : Amelioration d'un site web de fitness
+* Réaliser par : Ismail Zliga
+* Formation : youcode
+* Filière : developpement web
+* Date de réalisation : 09/10/2026
 
-* comment analyser un code html afin de le modifier selon le resultat voulue.
-
-* j'ai apprie comment creer un page web en utilisant html/css
+Description : Ce project consist a rendre 
