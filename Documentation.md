@@ -224,4 +224,7 @@ Description du Brief : Ce project consist a rendre le site one pager en un site 
     Réponse :
 
      CSS (Cascading Style Sheets) est un langage de feuilles de style utilisé pour définir l'apparence des éléments HTML : couleurs, polices, dimensions, espacements, alignements et mise en page.
+      
+
+  Et Merci.
   
